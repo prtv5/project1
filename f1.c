@@ -2,5 +2,5 @@
 int main()
 {
   printf("Hello word");
-  return 0;
+  printf("energy");
 }
